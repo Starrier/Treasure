@@ -1,0 +1,9 @@
+<scroll-view class="container" scroll-y="true" style="display:{{!preview?'blcok':'none'}};">
+   <view class='album-container' wx:for="{{}}">
+   
+   </view>
+
+
+
+
+</scroll-view>

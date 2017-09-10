@@ -1,0 +1,15 @@
+<view>
+ <view class='page-top'>
+   <text class='username'> Welcome</text>
+   <text class='text-info'>Sucess!</text>
+   <view class='page-btn-wrap'>
+     <button class='page-btn' bindtap='gotoAlbum'> Enter email!</button>
+   </view>
+ </view>
+  
+  <video class='page-bottom'>
+   <text class='qr-text'> 分享二维码邀请您给好友结伴一起写个小程序</text>
+   <image src='../../images/qr.jpg' class='qr-img'></image>
+   <image src='../../images/logo.jpg' class='page=logo'></image> 
+  </video>
+</view>
